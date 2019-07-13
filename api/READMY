@@ -1,0 +1,7 @@
+这是公共接口层 总的目录结构是
+springboot-dubbo
+    |---api  提供公共的接口
+    |---consumer
+        |---api
+    |---provide
+        |---api
